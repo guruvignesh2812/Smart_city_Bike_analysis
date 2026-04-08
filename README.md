@@ -75,8 +75,7 @@ Includes:
 - Predict bike demand using ML
 - Real-time data integration
 - Advanced drill-through reports
+  
 - ## 👤 Author GURU VIGNESH B
 Data Analytics Portfolio Project
 
-## 👤 Author
-Data Analytics Portfolio Project
