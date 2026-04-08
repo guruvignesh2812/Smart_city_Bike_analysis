@@ -1,4 +1,4 @@
-# 🚲 Smart City Bike Analysis Dashboard
+# 🚴 Smart City Bike Analysis Dashboard
   <img width="1126" height="680" alt="1" src="https://github.com/user-attachments/assets/d3c08fe3-6f5c-4a54-a110-d0a643c85260" />
 ## 📌 Overview
 This project is a Power BI dashboard designed to analyze bike-sharing systems across multiple cities. It provides insights into bike stand capacity, station distribution, availability, and usage patterns to help identify demand gaps and optimize operations.
